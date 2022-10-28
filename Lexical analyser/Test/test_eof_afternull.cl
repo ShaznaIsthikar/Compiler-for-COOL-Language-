@@ -1,0 +1,1 @@
+"This file contains a null character and then EOF
